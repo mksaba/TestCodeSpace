@@ -2,6 +2,4 @@
 def sum(a, b):
     return a + b
 
-def main():
-    res = sum(1,2)
-    print(res)
+print(sum(1, 2))
