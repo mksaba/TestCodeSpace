@@ -3,3 +3,6 @@ def sum(a, b):
     return a + b
 
 print(sum(1, 2))
+
+# write another code here
+
